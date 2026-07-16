@@ -61,17 +61,6 @@ reports/top_crypto_volume.png
 
 reports/top_crypto_gainers_24h.png
 
-### Top Criptomonedas por Capitalización de Mercado
-
-Identificación de los activos digitales más importantes según su valor total de mercado.
-
-### Top Criptomonedas por Volumen Transado
-
-Análisis de los activos con mayor actividad y liquidez dentro del mercado.
-
-### Top Ganadoras de las Últimas 24 Horas
-
-Identificación de las criptomonedas con mejor rendimiento porcentual diario.
 
 ---
 
