@@ -46,4 +46,3 @@ crypto_clean.csv
       ↓
 analisis_crypto.py
       ↓
-Visualizaciones
