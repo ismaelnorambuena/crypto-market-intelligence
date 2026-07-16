@@ -1,47 +1,49 @@
-# Crypto Market Intelligence
+# 🚀 Crypto Market Intelligence
 
 ## Descripción
 
-Proyecto de Data Science enfocado en la extracción, transformación y análisis de datos del mercado de criptomonedas utilizando la API de CoinGecko.
+Proyecto de Data Science enfocado en la extracción, transformación y análisis de datos del mercado de criptomonedas utilizando la API pública de CoinGecko.
+
+El proyecto implementa un pipeline ETL completo para obtener datos en tiempo real, procesarlos y generar análisis visuales orientados al mercado financiero y blockchain.
+
+---
 
 ## Objetivos
 
-- Obtener datos en tiempo real del mercado crypto
-- Construir un pipeline ETL
-- Analizar capitalización, volumen y rendimiento
-- Generar visualizaciones para la toma de decisiones
+- Obtener datos de criptomonedas en tiempo real
+- Construir un pipeline ETL profesional
+- Analizar capitalización de mercado
+- Analizar volumen transado
+- Analizar variaciones porcentuales diarias
+- Generar visualizaciones para apoyar la toma de decisiones
 
-## Tecnologías
+---
+
+## Tecnologías Utilizadas
 
 - Python
 - Pandas
 - Requests
 - Matplotlib
-- APIs REST
+- Git
+- GitHub
+- CoinGecko API
 
-## Arquitectura
+---
 
-API CoinGecko
-↓
-Extract
-↓
-Raw Data
-↓
-Transform
-↓
-Processed Data
-↓
-Analysis
-↓
-Visualization
+## Arquitectura ETL
 
-## Insights
-
-- Top criptomonedas por Market Cap
-- Ranking de volumen transado
-- Variación porcentual de las últimas 24 horas
-
-## Autor
-
-Ismael Norambuena
-Data Science
+```text
+CoinGecko API
+      ↓
+extract_crypto.py
+      ↓
+crypto_raw.csv
+      ↓
+transform_crypto.py
+      ↓
+crypto_clean.csv
+      ↓
+analisis_crypto.py
+      ↓
+Visualizaciones
