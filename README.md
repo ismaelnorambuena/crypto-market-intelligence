@@ -46,12 +46,20 @@ crypto_clean.csv
       ↓
 analisis_crypto.py
       ↓
-Visualizaciones
-      ↓
-top_crypto_marketcap.png
-top_crypto_volume.png
-top_crypto_gainers_24h.png
-## Análisis Realizados
+
+## Visualizaciones
+
+### Top Criptomonedas por Market Cap
+
+reports/top_crypto_marketcap.png
+
+### Top Criptomonedas por Volumen
+
+reports/top_crypto_volume.png
+
+### Top Ganadoras 24 Horas
+
+reports/top_crypto_gainers_24h.png
 
 ### Top Criptomonedas por Capitalización de Mercado
 
